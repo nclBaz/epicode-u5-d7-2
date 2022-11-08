@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/nclBaz/epicode-u5-d7-2#readme",
   "dependencies": {
+    "atob": "^2.1.2",
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
     "express": "^4.18.2",
